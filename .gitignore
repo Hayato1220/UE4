@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UnrealQuest3_UE4/UnrealQuest3_UE4/Saved/Config/CrashReportClient/UE4CC-Windows-6209A5C84C96176FC980608E26A5407D/CrashReportClient.ini
+UnrealQuest3_UE4/UnrealQuest3_UE4/Saved/Config/CrashReportClient/UE4CC-Windows-6EB48CA34672730D8989129A317D183A/CrashReportClient.ini
+UnrealQuest3_UE4/UnrealQuest3_UE4/Saved/Logs/UnrealQuest3-backup-2022.09.14-05.26.50.log
+UnrealQuest3_UE4/UnrealQuest3_UE4/Saved/Logs/UnrealQuest3-backup-2022.09.14-05.28.11.log
